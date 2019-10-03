@@ -1,0 +1,26 @@
+#cabecera {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center
+
+
+        
+}
+        #piedepagina {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    text-align: center
+
+
+    }
+
+    #indice {
+        
+        position: absolute;
+        top: 13%;
+        
+        left: 2%; width:
+        25%; height: 86%;
+        }
